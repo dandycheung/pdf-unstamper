@@ -2,6 +2,9 @@
 ![](https://img.shields.io/badge/Powered%20by-Apache%20PdfBox-green.svg?style=flat-square)  
 Remove textual watermark of **any font**, **any encoding** and **any language** with pdf-unstamper now!
 
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=hwding/pdf-unstamper&type=Date)](https://www.star-history.com/#hwding/pdf-unstamper&Date)
+
 ## *Disclaimer*  
 This software(pdf-unstamper.jar) is ONLY for technical exchange and CANNOT be held responsible for any consequences caused by pdf modification.
 
